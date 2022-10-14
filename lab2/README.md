@@ -1,4 +1,4 @@
-# Here i will describe the logic of sort  using if else-> 
+# Here i will describe the logic of sort logic using if else-> 
 
 ```cpp
 #include <iostream>
@@ -32,3 +32,4 @@ int main(void) {
   return 0;
 }
 ```
+![flowchart](https://github.com/Udoy2/CSE_Course_IP-without-oop-/raw/master/assets/flowchart.png "flowchart")
