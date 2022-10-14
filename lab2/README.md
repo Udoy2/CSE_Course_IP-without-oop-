@@ -1,4 +1,4 @@
-# Here i will describe the logic of sort logic using if else-> 
+# Here i will describe the logic of sort  using if else-> 
 
 ```cpp
 #include <iostream>
