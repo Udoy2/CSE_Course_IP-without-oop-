@@ -14,5 +14,5 @@ int main(void){
     }else{
         cout << "budget overload" << endl;
     }
-     return 0;
+    return 0;
 }
