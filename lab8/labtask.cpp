@@ -29,9 +29,9 @@ public:
   }
 };
 int main(void) {
-    int price,serialNum;
-    float discount;
-    string location;
+  int price, serialNum;
+  float discount;
+  string location;
   cout << "Price : " << endl;
   cin >> price;
   cout << "enter serial num: " << endl;
@@ -40,6 +40,9 @@ int main(void) {
   cin >> discount;
   cout << "location: " << endl;
   cin >> location;
+  /**
+   * creating obj from Order class
+   */
   Order order1(price, serialNum);
   order1.setData(discount, location);
   order1.getData();
